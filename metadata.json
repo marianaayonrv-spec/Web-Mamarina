@@ -1,0 +1,7 @@
+{
+  "name": "Mamanina - Alta Cocina Tradicional",
+  "description": "Concepto de comida tradicional mexicana de alta gama que equilibra la nostalgia de la abuela con estética minimalista y tecnología de vanguardia.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
